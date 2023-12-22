@@ -48,7 +48,7 @@ the much more extensive, offical git-scm.com documentation, for example.
 
 This is very much not an official reference in any sense.
 
-Errors and ommissions accepted.
+Errors and omissions accepted.
 
 ## Steps
 
