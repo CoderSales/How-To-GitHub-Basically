@@ -248,10 +248,6 @@ Search: [PS C:\WINDOWS\system32> wsl --install Class not registered Error code: 
 
 ____
 
-
-
-____
-
 ## References
 
 [freeCodeCamp](https://www.freecodecamp.org/)
