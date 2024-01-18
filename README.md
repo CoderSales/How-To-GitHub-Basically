@@ -194,6 +194,54 @@ With --ff-only, resolve the merge as a fast-forward when possible. When not poss
 
 55. **WARNING!!**, be very careful with this one, as it **DELETES!!** things: `git reset --hard` to undo last commit, OR: **To go back multiple commits!**: `git reset --hard <commit-hash>` [Be aware that the git reset –hard HEAD or git reset –hard HEAD@{n} command would remove your uncommitted changes, even if you staged them. If you don’t want your unstaged changes to be removed, you can use the --soft flag instead of the --hard flag. | Git Reset Hard – How to Reset to Head in Git | freeCodeCamp](https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/)
 
+____
+
+Update 18-01-2024:
+
+The following may be needed to make WSL, VSCode, git and GitHub work together effectively:
+
+[Install the GitHub Pull Requests and Issues extension](https://code.visualstudio.com/docs/sourcecontrol/github) in VSCode
+
+In addition to point 4. above, 
+
+(namely [PowerShell `wsl --install`](https://learn.microsoft.com/en-us/windows/wsl/install))
+
+Also, if this error happens:
+
+[WSL broken with "Class not registered" code 4294967295 (0xffffffff) #8268](https://github.com/microsoft/WSL/issues/8268)
+
+```text
+To fix "Class not registered" error, I only repair WSL on "Settings > Applications > Instaled Applications > Windows Subsystem for Linux > Advanced Options > Repair". After do that, my WSL command returned to work.
+```
+
+```text
+
+To fix "Class not registered" error, I only repair WSL on "Settings > Applications > Instaled Applications > Windows Subsystem for Linux > Advanced Options > Repair". After do that, my WSL command returned to work.
+
+I ended up having to uninstall Windows Subsystem for Linux from here, disable the windows feature (start menu > Turn windows features on or off), reboot, then re-enable it
+
+```
+
+Summary:
+
+In addition to toggling on and off wsl in turn Windows Features on or off in Control Panel: 
+
+- Windows PowerShell 2.0
+
+Other references for this:
+
+Search: [PS C:\WINDOWS\system32> wsl --install Class not registered Error code: Wsl/CallMsi/REGDB_E_CLASSNOTREG](https://www.google.com/search?q=PS+C%3A%5CWINDOWS%5Csystem32%3E+wsl+--install+Class+not+registered+Error+code%3A+Wsl%2FCallMsi%2FREGDB_E_CLASSNOTREG&oq=PS+C%3A%5CWINDOWS%5Csystem32%3E+wsl+--install+Class+not+registered+Error+code%3A+Wsl%2FCallMsi%2FREGDB_E_CLASSNOTREG&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQzMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+[WSL broken with "Class not registered" code 4294967295 (0xffffffff) #8268](https://github.com/microsoft/WSL/issues/8268)
+
+[How to deal with the problem: “Error code: Wsl/CallMsi/REGDB_E_CLASSNOTREG”](https://learn.microsoft.com/en-us/answers/questions/1462932/how-to-deal-with-the-problem-error-code-wsl-callms)
+
+[Error code: Wsl/CallMsi/REGDB_E_CLASSNOTREG #10882](https://github.com/microsoft/WSL/issues/10882)
+
+[How can I fix WSL.exe sudden corruption in unknown DLL giving error 0x80040154 on Win11](https://superuser.com/questions/1776891/how-can-i-fix-wsl-exe-sudden-corruption-in-unknown-dll-giving-error-0x80040154-o)
+
+____
+
 ## References
 
 [freeCodeCamp](https://www.freecodecamp.org/)
