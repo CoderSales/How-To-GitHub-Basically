@@ -228,6 +228,12 @@ In addition to toggling on and off wsl in turn Windows Features on or off in Con
 
 - Windows PowerShell 2.0
 
+- open PowerShell (may need to run as Admin)
+
+- wsl --install
+
+- reboot
+
 Other references for this:
 
 Search: [PS C:\WINDOWS\system32> wsl --install Class not registered Error code: Wsl/CallMsi/REGDB_E_CLASSNOTREG](https://www.google.com/search?q=PS+C%3A%5CWINDOWS%5Csystem32%3E+wsl+--install+Class+not+registered+Error+code%3A+Wsl%2FCallMsi%2FREGDB_E_CLASSNOTREG&oq=PS+C%3A%5CWINDOWS%5Csystem32%3E+wsl+--install+Class+not+registered+Error+code%3A+Wsl%2FCallMsi%2FREGDB_E_CLASSNOTREG&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQzMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
@@ -239,6 +245,10 @@ Search: [PS C:\WINDOWS\system32> wsl --install Class not registered Error code: 
 [Error code: Wsl/CallMsi/REGDB_E_CLASSNOTREG #10882](https://github.com/microsoft/WSL/issues/10882)
 
 [How can I fix WSL.exe sudden corruption in unknown DLL giving error 0x80040154 on Win11](https://superuser.com/questions/1776891/how-can-i-fix-wsl-exe-sudden-corruption-in-unknown-dll-giving-error-0x80040154-o)
+
+____
+
+
 
 ____
 
