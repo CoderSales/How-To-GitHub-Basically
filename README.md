@@ -308,7 +308,7 @@ This should show that the
 <GitHub Repository url>
 ```
 
-pasted in the above is listed as
+pasted in the [above](https://github.com/CoderSales/How-To-GitHub-Basically/edit/main/README.md#summary-of-set-remote-fix) is listed as
 
 ```bash
 (origin)
