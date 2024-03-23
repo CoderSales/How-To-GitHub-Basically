@@ -288,7 +288,7 @@ Summary of Solution:
 git remote add origin <GitHub Repository url goes here>
 ```
 
-see StackOverflow:
+Source: StackOverflow:
 
 [Why does Git tell me "No such remote 'origin'" when I try to push to origin?](https://stackoverflow.com/questions/25503017/why-does-git-tell-me-no-such-remote-origin-when-i-try-to-push-to-origin)
 
