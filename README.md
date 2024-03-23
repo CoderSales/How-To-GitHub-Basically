@@ -248,6 +248,44 @@ Search: [PS C:\WINDOWS\system32> wsl --install Class not registered Error code: 
 
 ____
 
+```bash
+git remote set-url origin <git url here>
+```
+
+gives:
+
+```bash
+error: No such remote 'origin'
+```
+
+Reason:
+
+here:
+
+[](https://stackoverflow.com/questions/25503017/why-does-git-tell-me-no-such-remote-origin-when-i-try-to-push-to-origin)
+
+basically:
+
+1 - You never told Git to start tracking any file
+
+For that you need to stage the files of interest, using:
+
+```bash
+git add .
+```
+
+```bash
+git commit -m "some descriptive message"
+```
+
+2 - You haven't set up the remote repository
+
+see StackOverflow:
+
+[Why does Git tell me "No such remote 'origin'" when I try to push to origin?](https://stackoverflow.com/questions/25503017/why-does-git-tell-me-no-such-remote-origin-when-i-try-to-push-to-origin)
+
+____
+
 ## References
 
 [freeCodeCamp](https://www.freecodecamp.org/)
