@@ -294,6 +294,40 @@ Source: StackOverflow:
 
 ____
 
+after above fix
+
+can check it worked with:
+
+```bash
+git remote -v
+```
+
+This should show that the 
+
+```bash
+<GitHub Repository url>
+```
+
+pasted in the above is listed as
+
+```bash
+(origin)
+```
+
+for both:
+
+```bash
+(fetch)
+```
+
+and
+
+```bash
+(push)
+```
+
+____
+
 ## References
 
 [freeCodeCamp](https://www.freecodecamp.org/)
