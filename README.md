@@ -282,7 +282,7 @@ git commit -m "some descriptive message"
 
 2 - You haven't set up the remote repository
 
-Summary of Solution: <div id="summary-of-set-remote-fix"></div>
+Summary of Solution:
 
 ```bash
 git remote add origin <GitHub Repository url goes here>
