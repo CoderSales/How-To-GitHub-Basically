@@ -248,7 +248,7 @@ Search: [PS C:\WINDOWS\system32> wsl --install Class not registered Error code: 
 
 ____
 
-Update: 23-03-2024
+Update 23-03-2024:
 
 ```bash
 git remote set-url origin <git url here>
