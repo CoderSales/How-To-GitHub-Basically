@@ -56,7 +56,7 @@ Errors and omissions accepted.
 
 2. Download Powershell using commands given: `winget search Microsoft.PowerShell`
 
-3. Add folder with Powershell.exe to Windows System Environment Variables > Path by clicking `New`
+3. Add the full absolute path to the folder where `Powershell.exe` is located to `Windows System Environment Variables > Path` by clicking `New`
 
 4. [Click here to go to Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)
 
