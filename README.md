@@ -334,6 +334,8 @@ ____
 
 [git-scm.com](https://git-scm.com/)
 
+- [2.6 Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+
 [stackoverflow](https://stackoverflow.com/)
 
 [learn.microsoft.com](https://learn.microsoft.com/en-us/)
