@@ -328,6 +328,16 @@ and
 
 ____
 
+Update 20-07-2024:
+
+Search and Reference on LF replacement by CRLF in git
+
+[Git failed error warning: in the working copy of LF will be replaced by CRLF the next time Git touches it LF will be replaced by CRLF the next time LF will be replaced by CRLF the next time Git touches it warning: in the working copy of  LF will be replaced by CRLF the next time Git touches it warning: in the working copy of LF will be replaced by CRLF the next time Git touches it warning: in the working copy of LF will be replaced by CRLF the next time Git touches it warning: in the working copy of LF will be replaced by CRLF the next time Git touches it warning: in the working copy of](https://www.google.com/search?q=Git+failed+error+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+LF+will+be+replaced+by+CRLF+the+next+time+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of&oq=Git+failed+error+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+LF+will+be+replaced+by+CRLF+the+next+time+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of++LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of+LF+will+be+replaced+by+CRLF+the+next+time+Git+touches+it+warning%3A+in+the+working+copy+of&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEHMzcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+[How can I stop this error. LF will be replaced by CRLF the next time Git touches it](https://github.com/orgs/community/discussions/66838)
+
+____
+
 ## References
 
 [freeCodeCamp](https://www.freecodecamp.org/)
